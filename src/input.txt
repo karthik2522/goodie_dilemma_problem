@@ -1,4 +1,4 @@
-Number of employees: 2
+Number of employees: 4
 
 Goodies and Prices:
 
